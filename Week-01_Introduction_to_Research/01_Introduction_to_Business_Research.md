@@ -65,7 +65,7 @@ This statement highlights that only scientific and systematic methods can help u
 
 Let us now look at some definitions of research.
 
-### Definitions of Research
+###  Definitions of Research
 
 L.V. Redman and A.V.H. Mory, in their book *The Romance of Research*, defined research as **a systematic effort to gain new knowledge**. This means research is not done randomly but follows an organised and planned approach.
 
@@ -78,3 +78,114 @@ Research can also be explained as a process that includes **identifying a proble
 D. Slesinger and M. Stephenson, in the *Encyclopedia of Social Sciences*, defined research as **the use of things, ideas, or symbols to generalise, extend, correct, or verify knowledge**, whether that knowledge is useful for building theories or for practical applications.
 
 To understand the meaning of research clearly and completely, let us analyse the above definitions in detail.
+
+**i) Research involves manipulation of things, concepts, or symbols**
+
+  * **Manipulation** means handling something in a planned and purposeful way.
+
+  * **Things** refer to physical objects such as balls, rats, or vaccines.
+
+  * **Concepts** are ideas or terms used to describe things and their properties, which science tries to understand.
+    Examples include velocity, acceleration, wealth, and income.
+
+  * **Symbols** are signs used to represent ideas or values, such as +, −, ÷, ×, x̄, σ, Σ, etc.
+
+
+  * **Manipulation of things** means changing conditions to observe results.
+    For example, when a ball is placed on slopes of different angles, research studies how fast and in what way it moves.
+    Similarly, when a vaccine is used in different quantities, at different time gaps, or not used at all, research examines its effects.
+
+**ii) Manipulation is done to make generalizations**
+
+  The main purpose of research is to arrive at **generalizations**. A generalization is a broad statement that helps us predict what is likely to happen in similar situations. It tells us what to expect for a group of things under similar conditions.
+
+  **Examples:**
+
+  * During drought years, the debt repayment capacity of farmers decreases.
+  * When prices increase, demand usually falls.
+  * Advertisement has a positive effect on sales.
+
+**iii) The purpose of research is to extend, correct, or verify knowledge**
+
+  Generalizations influence existing knowledge in many ways. Research may:
+
+  * **Extend knowledge** by adding new information or removing contradictions.
+  * **Correct knowledge** by identifying mistakes in existing ideas.
+  * **Reject existing knowledge** if it is found to be wrong.
+  * **Verify knowledge** by confirming what is already known, which strengthens it.
+  * **Identify gaps** in knowledge and encourage further study to fill those gaps.
+
+**iv) This knowledge can be used for building theory or for practical use**
+
+  The knowledge gained through research can be used in two main ways:
+
+  **a) For building theories**
+  Research helps in creating abstract and systematic explanations of reality.
+  Examples include the theory of relativity, theory of full employment, and theory of wages.
+
+  **b) For practical use**
+  Research findings can also be applied to solve real-life problems.
+  For example, the generalization “salesmanship and advertisement increase sales” can be practically used by a company to boost sales through better advertising and selling techniques.
+
+  Theory and practice are closely connected. Theory improves the quality and effectiveness of practice, while practice can support, modify, confirm, or even reject existing theories.
+
+## 1.3 Meaning of Science
+
+The development of science can be seen as a continuous interaction between **theory and facts**. The word *science* comes from the Latin word *Scientia*, which means **knowledge**. Since research is a way of acquiring knowledge, science and research are closely related and support each other.
+
+Earlier, the term *science* was used to describe all organised and systematic studies. Some common definitions of science are given below:
+
+* Science is a branch of accumulated knowledge.
+  In this sense, science refers to a specific field such as Physics, Chemistry, or Economics.
+
+* Science is systematised knowledge about things or events found in nature.
+
+* According to Goode and Hatt, **science is an accumulation of systematic knowledge**.
+
+In these definitions, two words are very important: **knowledge** and **systematic**. Knowledge is the goal of science, while being systematic refers to the method used to gain that knowledge.
+
+In modern times, more importance is given to the **method** of science rather than only the knowledge. This is reflected in the following views:
+
+* Science is knowledge of relationships, not just of things.
+* Science is a process that creates knowledge.
+* The method used is more important than the subject matter.
+* Science is a way of investigation.
+* Science is a way of understanding the world.
+* As Karl Pearson said, *the unity of all sciences lies in their methods, not in their subject matter*.
+
+From these definitions, two main views of science emerge:
+
+* **Science as organised or accumulated knowledge**
+  This is a **static view**, where science is seen as a fixed body of knowledge.
+
+* **Science as a method or process of gaining knowledge**
+  This is a **dynamic view**, where science is seen as an active and continuous process.
+
+Today, the second view is more widely accepted. Science is mainly understood as a **method or process**, rather than just a collection of facts from specific subjects.
+
+## 1.4 Knowledge and Science
+
+Knowledge is related to **knowing**. Knowing can happen in two ways:
+through **direct experience** or through **description**. Direct experience comes from what we see, hear, or feel through our senses. However, most of what we know about the world is based on descriptions rather than direct experience.
+
+Knowing always refers to something outside our mind, which is called a **fact**. A fact is anything that exists or can be imagined. A fact is neither true nor false; it simply exists. What we think we know is actually a **belief or judgement**. But not every belief can be called knowledge, because some beliefs may turn out to be wrong when tested. Therefore, knowledge is not absolute; it exists in degrees.
+
+Knowledge does not have to remain personal or private. Private knowledge can become **public knowledge** when it is tested and accepted using scientific methods or common sense reasoning.
+
+Human knowledge usually appears in the form of beliefs or judgements about something. Some beliefs are supported by evidence, while others are not. Evidence may come from observation or experience. Beliefs that are supported by evidence are called **justified beliefs**, and only justified beliefs are considered knowledge. Beliefs without evidence are not knowledge.
+
+Knowledge needs explanation, and this is where **science** plays an important role. Knowledge and science are not the same. Science always involves knowledge, but all knowledge is not science. In other words, **all science is knowledge, but all knowledge is not science**.
+
+Scientific knowledge is organised, systematic, and connected. Ordinary knowledge, on the other hand, is often unorganised and made up of separate facts. Science uses special methods to make knowledge accurate and reliable, while ordinary knowledge is usually based on casual observation without a proper method. However, scientific knowledge and ordinary knowledge are not different in nature, but only in degree. Scientific knowledge is more precise, organised, and specialised than ordinary knowledge.
+
+---
+
+### Self Assessment Exercise A
+
+1. What do you understand by research?
+
+2. What is the relationship between science and research?
+
+3. Distinguish between knowledge and science.
+
+4. What is a fact?

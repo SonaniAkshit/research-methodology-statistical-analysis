@@ -32,7 +32,7 @@ All material is organized **week-wise** to show a clear learning progression fro
 
 ## 📂 Repository Structure
 
-```
+```bash
 research-methodology-statistical-analysis/
 │
 ├── Week-01_Introduction_to_Research/
