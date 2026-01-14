@@ -38,7 +38,8 @@ research-methodology-statistical-analysis/
 ├── Week-01_Introduction_to_Research/
 │   ├── 01_Introduction_to_Business_Research
 │   ├── 02_Research_Thought_and_FAQ
-│   └── 03_Research_Methods
+│   ├── 03_Research_Methods
+│   └── 04_Unit1_Business_Research_Summary.md
 │
 ├── Week-02_Research_Planning_Objectives_and_Design/
 │   ├── 04_Research_Plan_and_Research_Problem
