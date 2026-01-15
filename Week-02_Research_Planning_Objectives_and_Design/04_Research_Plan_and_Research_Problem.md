@@ -154,3 +154,348 @@ Some examples are:
 - Profitability of a firm  
 - Impact of imports on the Indian economy  
 - Comparison of accounting practices in public and private companies  
+
+### 2.2.1 Sources of Research Problems
+
+If a researcher or research organization already has a problem,  
+they can move ahead with the research process.  
+If not, they must search for a research problem.
+
+The first place to look is your own mind.  
+You need to observe, feel, and think about problems.  
+The following sources can help in identifying research problems.
+
+#### 1) Business Problems
+
+A research problem often comes from a real business need.  
+This need may be for an answer, a solution, or an improvement.  
+It may relate to facilities or technology.
+
+Businesses face many types of problems, such as:
+
+- Business policy problems  
+- Operational problems  
+- General management problems  
+- Functional area problems  
+
+Functional areas include:
+
+- Financial Management  
+- Marketing Management  
+- Production Management  
+- Human Resources Management  
+
+Business research aims to solve management problems.  
+It helps managers make better and logical decisions.
+
+#### 2) Day-to-Day Problems
+
+Research problems can come from daily life experiences.  
+Everyday situations often create new problems to study.  
+This depends on the researcher’s observation and thinking ability.
+
+**Example:**  
+A person who travels by city bus daily finds it difficult to get in or out.  
+Introducing a queue system helps people board and exit easily.  
+This daily problem can become a research problem.
+
+#### 3) Technological Changes
+
+Technology changes very fast.  
+New technology creates new problems and new research opportunities.
+
+**Example:**  
+Studying the impact of a new machine, process, or technique.
+
+#### 4) Unexplored Areas
+
+Some areas are well researched, while others are not.  
+A researcher can identify areas with little or no research.  
+Such unexplored or less explored areas can be chosen as research problems.
+
+#### 5) Theory of One’s Own Interest
+
+A researcher may choose a problem from a theory of personal interest.  
+In this case, the researcher must understand the theory well.  
+They should explore unclear parts or assumptions of the theory.
+
+The aim may be to:
+
+- Recheck the theory  
+- Modify the theory  
+- Reject the theory based on new findings  
+
+#### 6) Books, Theses, Dissertation Abstracts, Articles
+
+Textbooks, research theses, dissertations, and research journal articles  
+are important sources of research problems.  
+Special assignments and research reports also help.
+
+These sources often point out areas that need more research.  
+Many theses and articles suggest topics for future study.  
+Such suggested problems can be useful for new research.
+
+#### 7) Policy Problems
+
+Government policies can have both positive and negative effects.  
+These effects can become research problems.
+
+**Examples:**
+
+- Impact of the new industrial policy on industrial development  
+- Impact of export and import policy on the balance of payments  
+- Impact of SEBI regulations on stock markets  
+
+#### 8) Discussions with Supervisor and Other Knowledgeable Persons
+
+Discussion with a research supervisor can be very helpful.  
+Talking to experts or knowledgeable persons in the field also helps.  
+Such discussions can guide the researcher in selecting a good problem.
+
+---
+
+### Self Assessment Exercise A
+
+**Fill in the blanks with appropriate words:**
+
+1) A research problem is a __________________ need.  
+2) The problem sets the __________________ of research.  
+3) The research problem should preferably be expressed in __________________ form.  
+4) A problem exists when we do not have enough __________________ to answer it.  
+5) Technological changes are a constant __________________ for research.  
+
+6) List five research problems on your own.
+
+### 2.2.2 Points to be Considered while Selecting a Problem
+
+A researcher may have many topics to choose from.  
+The selected topic or problem must meet certain conditions.  
+Every research problem should satisfy the following points.
+
+#### 1) Original or Less Explored Topic
+
+The topic should be new or not fully studied.  
+Research aims to add new knowledge, not repeat old facts.  
+So, the researcher should first review existing literature.
+
+This review helps in three ways:
+
+- It helps the researcher identify a clear research problem  
+- It avoids repeating work already done by others  
+- It gives information about past research methods and their limits  
+
+#### 2) Significance and Social Usefulness
+
+The problem should be important.  
+It should be useful to society in some way.
+
+#### 3) Interest of the Researcher
+
+The topic should be interesting to the researcher.  
+It should match the researcher’s interest and ability.
+
+#### 4) Area of Specialization
+
+The problem should belong to the researcher’s area of specialization.  
+
+#### 5) Match with Researcher’s Abilities
+
+The topic should match the researcher’s skills.  
+These skills may be already learned or can be learned during research.
+
+#### 6) Proper Size of the Problem
+
+The problem should be large enough for research.  
+At the same time, it should be small enough to handle.  
+It should be possible to study with available or learnable skills.
+
+#### 7) Clear Focus
+
+The problem should have a clear aim or objective.  
+
+#### 8) Feasibility of the Research
+
+Before selecting the problem, feasibility must be checked.
+
+The researcher should ask:
+
+- Are enough and suitable data available?  
+- Is access to organizations and respondents possible?  
+- Will organizations and respondents cooperate?  
+- What resources are needed and are they available?  
+- Is the research possible with available money and manpower?  
+
+#### 9) Time Limit
+
+The research should be completed within the given time limit.  
+
+### 2.2.3 Specification of the Problem
+
+After reviewing all related issues, the problem must be restated clearly.  
+It should be written in analytical terms, keeping the solution in mind.
+
+The best way to understand a problem is to discuss it with the people  
+who first identified it.  
+This helps in knowing how the problem arose.  
+It also shows what the people were thinking at that time.
+
+If the problem is stated in a very general way,  
+more discussion is needed to understand its true nature.
+
+The research problem must clearly define the researcher’s goal.  
+Along with the problem, the research objective should be clearly stated.  
+If the goal is not clear, research activities become meaningless.
+
+The first step in defining a research problem is to make it clear and specific.  
+There is no perfect method to do this.  
+However, R. L. Ackoff gives useful guidance for this process.  
+He explains five main components of a research problem.
+
+#### 1) Research Consumer
+
+There must be a person or group facing a difficulty.  
+This person may be the researcher himself or herself.  
+It may also be a group of researchers.  
+In some cases, other people may also be involved.
+
+If the researcher is different from the research consumer,  
+then the researcher is also a participant in the problem.
+
+#### 2) Research Consumer’s Objective
+
+The research consumer must want to know something.  
+They must have some goal to achieve.  
+A person who wants nothing cannot have a problem.
+
+#### 3) Alternative Means to Achieve the Objective
+
+The research consumer must have different ways to reach the objective.  
+These ways are called courses of action.  
+A course of action may use certain tools or resources.
+
+These tools are called instruments.  
+An instrument can be an object, idea, or concept.  
+It helps in achieving the objective.
+
+There must be at least two possible ways available.  
+If there is no choice between methods,  
+then there is no research problem.
+
+#### 4) Doubt in Regard to Selection of Alternatives
+
+Having different options is not enough to create a problem.  
+The research consumer must feel doubt about which option to choose.  
+If there is no doubt, there is no problem.
+
+Most problems finally come down to comparing options.  
+The goal is to find which option works best for the given objective.
+
+#### 5) One or More Environments
+
+A problem must exist in a specific environment.  
+A problem may exist in one environment but not in another.  
+A change in environment can create or remove a problem.
+
+The research consumer may be unsure about the best method to use.  
+This may depend on the environment.
+
+**Examples:**
+
+- Marketing strategies differ in urban, semi-urban, and rural markets  
+- Family planning messages differ for educated and illiterate people  
+
+Some problems exist only in one environment.  
+Other problems exist in many environments.
+
+Selecting a research topic is only the first step.  
+A general topic does not clearly show what data are needed.  
+It also does not explain which methods to use or how to organize data.
+
+So, the researcher must clearly define a specific research problem.  
+This is done by clearly stating all its components.
+
+A research problem is a basic question.  
+Research tries to find an answer or solution to this question.
+
+This main question can be divided into smaller questions.  
+These questions should be:
+
+- Simple  
+- Clear  
+- Limited  
+- Based on facts and data  
+
+Defining a problem means narrowing its scope step by step.  
+The focus becomes sharper until clear questions are formed.
+
+If you can answer the following questions,  
+the research problem is clearly defined.
+
+1) What do you want to know?  
+   - What is the problem or question?
+
+2) Why do you want to know?  
+   - What is the purpose or objective?
+
+3) How do you want to solve it?  
+   - What method will be used?
+
+4) When do you want to solve it?  
+   - What is the time limit?
+
+5) Where do you want to solve it?  
+   - What is the area or place?
+
+6) Who is the research consumer?  
+   - Who will use the results?
+
+A well-defined problem is half solved.
+
+## 2.3 Formulation of Objectives
+
+After selecting and clearly defining the research problem,  
+the next step is to set the research objectives.
+
+Research is not done without a purpose.  
+It is carried out to achieve something specific.  
+So, research is a goal-oriented activity.
+
+The researcher must clearly identify the goals of the study.  
+These goals give proper direction to the research.  
+That is why formulating research objectives is very important.
+
+Once the objectives are clearly stated,  
+all research activities focus on achieving them.
+
+**Example:**  
+Suppose we want to study a regulated agricultural market in a town.  
+The purpose is to check whether it is meeting its objectives.
+
+For this study, we may collect data such as:
+
+- Arrival of different agricultural products  
+- Sources and use of funds  
+- Facilities provided in the market  
+- Opinions of users  
+
+If the objectives are clear,  
+it becomes easier to decide:
+
+- What data to collect  
+- From where to collect data  
+- How to collect data  
+- How to analyze the data  
+
+Therefore, research objectives must be:
+
+- Clear  
+- Specific  
+- Definite  
+
+### Self Assessment Exercise B
+
+1) List any five points that help in selecting a research problem.
+2) What do you mean by specification of a problem?
+3) Why is formulation of research objectives necessary?
+4) How do day-to-day problems lead to research?
+5) Why is knowledge of previous research important?
